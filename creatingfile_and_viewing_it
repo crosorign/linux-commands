@@ -1,0 +1,5 @@
+touch fileCreation.txt
+vi fileCreation.txt 
+    a. press 'i' to insert content in vi mode 
+    b. save content in file using 'esc' + wq!
+cat fileCreation.txt
