@@ -1,0 +1,19 @@
+ 
+ mkdir testfolder
+ cd testfolder/
+ mkdir mainfolder
+ ls
+mainfolder
+cd mainfolder/
+ touch cat.txt
+ vi cat.txt 
+ cat cat.txt 
+
+Test content 
+ rm cat.txt 
+ cd ..
+ rmdir mainfolder/
+ cd ..
+ rmdir testfolder/
+ 
+
